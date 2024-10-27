@@ -1,0 +1,1 @@
+pip install torch transformers tokenizers datasets huggingface_hub sentencepiece
